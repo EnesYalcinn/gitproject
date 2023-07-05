@@ -1,1 +1,4 @@
 # gitproject
+
+deneme 
+sonuç 
